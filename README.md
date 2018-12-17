@@ -2,6 +2,7 @@
 java version of balance checking test
 
 This is the test project to verify the balance page. The technologies used here are:
+  
   Cucumber, Java, JUnit, Selenium WebDriver, Maven, Page Object Model
   
 To configure:
@@ -10,9 +11,11 @@ To configure:
   3. Create feature, step, runner and other files under src/test/java.
   
 To run:
+
   Right click "BalanceRunner.java" file and choose "Run As" -> "JUnit Test"
 
 Example Output:
+
   See test_result.jpg
 
 Future work:
